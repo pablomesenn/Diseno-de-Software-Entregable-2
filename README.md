@@ -28,3 +28,23 @@ y que aportan cierta garantía de éxito, esto gracias a las relaciones entre en
   1- Seleccionar método de pago
 
   2- Autenticación de usuario
+
+## Desarollo de wireframes
+
+Como continuación del desarollo del entregable se han desarrollado los wireframes de los dos estados (listados previamente) considerados como fundamentales para la garantía de éxito
+del proyecto. A continuación los wireframes y una breve explicación de estos.
+
+-> Seleccionar método de pago
+
+![image](https://github.com/user-attachments/assets/532bad59-4423-41b4-94e1-b86a8392af33) 
+
+Para este wireframe se ha tomado en cuenta el reconomiento de voz con implementación de IA, por lo que a este estado se llegaría después del procesamiento de las directrices por voz,
+en donde su función es reflejar el método de pago dicho con anterioridad y confirmar su selección.
+
+-> Autenticación de usuario
+
+![image](https://github.com/user-attachments/assets/13b143de-cce4-466e-a8a3-61b666c48e56)
+
+En el caso de la autenticación se usuario se ha supuesto que en base al método de pago se deberá de recibir un código por los mecanismos de la entidad bancaria o pasarela de pago seleccionada,
+por lo que el usuario deberá de confirmar su identidad mediante este código para poder confirmar la información y realizar futuras transacciones automáticas.
+
