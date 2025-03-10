@@ -48,3 +48,31 @@ en donde su función es reflejar el método de pago dicho con anterioridad y con
 En el caso de la autenticación se usuario se ha supuesto que en base al método de pago se deberá de recibir un código por los mecanismos de la entidad bancaria o pasarela de pago seleccionada,
 por lo que el usuario deberá de confirmar su identidad mediante este código para poder confirmar la información y realizar futuras transacciones automáticas.
 
+## Pantallas generadas por IA
+
+Para generar las pantallas utilizamos Lovable, el cual es muy util al momento de generar codigo mediante imagenes e instrucciones.
+
+Ya este por defecto genera todo mediante el lenguaje JavaScript junto con React y otros nodos utiles para las creacion web.
+
+Estas son algunas pantallas generadas:
+
+### Pantalla principal
+![Pantalla principal](Pantalla%20principal.png)
+
+### Visualizar una cuenta
+![ver cuenta](ver%20cuenta.png)
+
+### Generar un pago
+![generar pago](generar%20pago.png)
+
+### Ver pago
+![ver pago](ver%20pago.png)
+
+Los cuales esteticamente son muy amigables con el usuario y no generan confusiones al momento de realizar una tarea.
+
+## Test de usabilidad
+
+Para esta realizar las pruebas se utlizó Loop11, ya que nos permitió grabar la pantalla y al usuario mientras realizaba la prueba y se puede utilizar tanto en computadoras como en dispositivos moviles.
+
+Videos de comprobación para las muestras de usablidad:
+https://1drv.ms/f/c/a056d1b750b65344/EsNTr1m_oadHvPRmMDi9z2MBdE0nmME_Uj6K98NvZ2aQng?e=xKfmXR
